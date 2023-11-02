@@ -8,7 +8,7 @@ In this project, we were asked to build a CMS-style blog site similar to a Wordp
 
 * My GitHub Repo URL: https://github.com/lenzlee/techblog 
 
-* URL of the functional, deployed application: 
+* URL of the functional, deployed application on Heroku: https://lwheelertechblog-ee3b6b7c58e8.herokuapp.com/  
 
 ## References/Resources:
 
