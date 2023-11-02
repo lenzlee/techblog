@@ -50,6 +50,11 @@
   h4 a:hover {
     color: var(--dark);
   }
+
+  h6 {
+    font-size: 70%;
+    color: #6c6b67;
+  }
   
   /* nav a {
     color: var(--secondary);
