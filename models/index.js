@@ -1,6 +1,6 @@
 // models import
 const Post = require("./Post");
-const Comment = require("./comment");
+const Comment = require("./Comment");
 const User = require("./User");
 
 // User has many Post
