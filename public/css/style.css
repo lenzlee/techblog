@@ -1,0 +1,70 @@
+:root {
+    --primary: #77DDF9;
+    --secondary: #899499;
+    --tertiary: #414953;
+    --quatrinary: #6c6b67;
+    --light: #EAFBFF;
+    --dark: #414953;
+    --error: red;
+    --border-radius: 0.4rem;
+
+  }
+  
+  body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: var(--secondary);
+    font-size: 16px;
+  }
+  
+  header {
+    background-color: var(--tertiary);
+    border-bottom: 1px solid black ;
+  }
+  
+  h1 a {
+    color: var(--secondary);
+    font-size: 50px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+  }
+
+  h4 a {
+    color: var(--dark);
+    font-size: 50px;
+  }
+
+  h4 a:hover {
+    color: var(--dark);
+  }
+  
+  nav a {
+    color: var(--secondary);
+    font-size: 30px;
+    text-decoration: underline;
+    padding: 6px;
+  }
+  
+  .card-header {
+    background-color: #ccc;
+    display: block;
+  }
+  
+  button a {
+    color: white;
+  }
+  
+  .post {
+    margin: 5px;
+  }
+  
+  .col {
+    margin: 5px;
+  }
+  
+  .centerthisbutton {
+    text-align: center;
+  }

@@ -1,6 +1,6 @@
+const path = require('path');
 const helpers = require('./utils/helpers');
 const routes = require('./controllers');
-const path = require('path');
 const express = require('express');
 const expresshandlebars = require('express-handlebars');
 const session = require('express-session');
