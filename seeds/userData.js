@@ -5,14 +5,6 @@ const userdata = [
     username: "Lenz",
     password: "password1",
   },
-  {
-    username: "Lee",
-    password: "password2",
-  },
-  {
-    username: "Lenzlee",
-    password: "password3",
-  },
 ];
 
 const seedUser = () =>
